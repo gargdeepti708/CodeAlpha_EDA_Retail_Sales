@@ -1,0 +1,69 @@
+BUSINESS INSIGHTS – RETAIL SALES EDA
+
+CodeAlpha Data Analytics Internship
+
+1. OVERALL PERFORMANCE
+
+---
+
+Total Sales: ₹14,956,982
+Total Profit: ₹3,747,121.20
+Profit Margin: 25.05%
+
+2. REGIONAL PERFORMANCE
+
+---
+
+Highest Sales Region: West
+Sales: ₹4,798,743
+
+Other regional sales:
+
+East: ₹4,248,368
+Central: ₹3,468,156
+South: ₹2,440,461
+North: ₹1,254
+
+Note:
+The North region contains only one record in the dataset, so its regional performance should be interpreted carefully.
+
+3. PRODUCT PERFORMANCE
+
+---
+
+Highest Sales Sub-category: Health Drinks
+Sales: ₹1,051,439
+
+Highest Profit Sub-category: Health Drinks
+Profit: ₹267,469.79
+
+4. MONTHLY SALES PERFORMANCE
+
+---
+
+Highest Sales Month: September 2018
+Sales: ₹705,680
+
+5. KEY BUSINESS FINDINGS
+
+---
+
+• The West region generated the highest total sales.
+
+• Health Drinks was the highest-performing sub-category based on both sales and profit.
+
+• September 2018 recorded the highest monthly sales during the analyzed period.
+
+• The overall profit margin was approximately 25.05%.
+
+• Regional and product-level analysis can help identify high-performing areas of the business.
+
+• Monthly sales analysis helps identify periods of higher sales activity.
+
+6. CONCLUSION
+
+---
+
+The Exploratory Data Analysis provided useful insights into sales, profitability, regional performance, product performance, and monthly trends.
+
+The analysis demonstrates how Python-based data analysis and visualization can be used to convert raw retail data into meaningful business insights.
